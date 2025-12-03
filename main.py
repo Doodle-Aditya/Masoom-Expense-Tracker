@@ -1,9 +1,5 @@
-# main.py
 from gui.app_gui import BillingApp
 
-def main():
+if __name__ == "__main__":
     app = BillingApp()
     app.run()
-
-if __name__ == "__main__":
-    main()

@@ -1,6 +1,4 @@
 customtkinter
-reportlab
-pdfrw
 openpyxl
+pywin32
 num2words
-PyPDF2
